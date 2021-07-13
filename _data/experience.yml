@@ -1,12 +1,12 @@
 # Jobs
 # job 1
 - company: Aerovironment Inc.
-  position: placeholder position
-  duration: placeholder duration
-  summary: placeholder summary	<ul class="resume-item-list"><li>bullet points</li><li>another</li></ul>
+  position: Systems Engineering Intern
+  duration: Kune 2020 &mdash; September 2020, May 2019 &mdash; August 2019
+  summary: Repeat summer intern hire. Responsible for requirement management in JAMA and JIRA, as well as exposure to System and Program Architecture for autonomous single-use aircraft. Designed architecture of and programming for analysis of Fault Detection, Isolation, and Recovery (FDIR) using Built-in Testing onboard aircraft. Wrote an automated flight data analysis program for failure analysis. Gained experience in System Development Processes as well as retroactive fault analysis.
 
 # job 2
 - company: Aerovironment Inc.
-  position: placeholder position
-  duration: placeholder duration
-  summary: placeholder summary	<ul class="resume-item-list"><li>bullet points</li><li>another</li></ul>
+  position: Information Systems Specialist I
+  duration: November 2016 – May 2019
+  summary: Responsible for assisting users with workstation issues, software and hardware. Automated deployment of workstations in a timely and secure manner. Responsible for maintaining and standardizing a stock of workstations for loan or new hire. Familiar with supporting Windows XP through 10, as well as OS X and experience in RHEL-based and Debian-based distributions of Linux. Resolved compatibility issues in outdated and strict environment. Supported Print Servers.
