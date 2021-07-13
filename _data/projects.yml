@@ -1,16 +1,27 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
+- project: Built-In-Test System Architecture
+  role: Primary Engineer
+  duration: May &mdash; August 2019
   # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+  description: This project was done as part of my 2019 Systems Engineering Internship. I designed a system architecture retroactively for a new built-in-testing system on an unmanned aircraft. This included requirements on which sensors are addressed to test nominal performance, how the BIT data is used by the system, and how the BIT data is displayed to the user.
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
+- project: Flight Data Analysis to analyze component faults
+  role: Primary developer
+  duration: June &mdash; August 2020
   # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+  description: This project was done in MatLab as part of my Systems Engineering Internship in the Summer of 2020. The goal was to analyze the telemetry data of an aircraft, and turn discrete status updates into continuous time-based depictions of failure time. The program would also analyze how many times each component failed and for how long, while also taking into account sensors that fail pre/post launch.
+
+- project: Multithreaded HTTP Server with fault tolerance via Redundancy
+  role: Primary Developer
+  duration: December 2020
+  url: "https://github.com/Garrett-Webb/httpserver-in-c"
+  description: This was done as a school project in C/C++, in the class Principles of Computer System Design
+
+- project: Program to generate topic-based sentences in person-specific grammar
+  role: Co-developer
+  duration: January 2020
+  url: "https://github.com/Garrett-Webb/trumptweets"
+  description: This was a project that I made for CruzHacks 2020 with a partner. The program cleans and processes twitter data from former president Donald Trump, and uses an n-gram model and Azure sentiment analysis to generate a new tweet based on a given topic.
+
