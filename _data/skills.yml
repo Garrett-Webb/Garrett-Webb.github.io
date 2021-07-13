@@ -1,12 +1,12 @@
 # Skills
 # Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+- skill: Programming Languages
+  description: C/C++, Python, SQL, HTML/CSS, JavaScript, MatLab, SmallTalk, OCaml, Scheme, Perl
 
 # Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+- skill: Developer Tools
+  description: Visual Studio, Debugging, Git, Unix, Azure, Various APIs, TensorFlow, Matplotlib, scikit-learn, Docker
 
 # Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+- skill: Leadership
+  description: I have held many leadership postions including Senior Patrol Leader in my boy scout troop where I was in charge of running the meetings with 50+ scouts and their parents, as well as being in charge of planning outings. I served as the Vice President of the Enthusiastic Programmers club at Moorpark College, where we organized outings as a club to Hackathons including but not limited to CruzHacks 2020l, HackHarvard 2018, and SFHacks 2017. I also organized a voluntary casual tutoring session for any Computer Science student to get help when they needed and socialize at the same time.
