@@ -17,7 +17,13 @@
   role: Primary Developer
   duration: December 2020
   url: "https://github.com/Garrett-Webb/httpserver-in-c"
-  description: This was done as a school project in C/C++, in the class Principles of Computer System Design
+  description: This was done as a school project in C/C++, in the class Principles of Computer System Design. The server uses socket programming and concurrency techniques to implement HTTP server functionality on multiple threads with redundancy in the file storage.
+
+- project: Distributed Key Value Store Server with Shards and Causal Consistency
+  role: Co-Developer
+  duration: June 2021
+  url: "https://github.com/Garrett-Webb/Sharded-CausallyConsistent-KVstore"
+  description: This was done as part of a class project in the class Distributed Systems at UCSC. The server was programmed as a team with two classmates in Python using Docker to containerize. The server uses a consistent hashing technique to determine which shards the data is addressed to, and can dynamically assign new nodes to shards, and re-shard the entire system. Causal Consistency is implemented using vector clocks. 
 
 - project: Program to generate topic-based sentences in person-specific grammar
   role: Co-developer
