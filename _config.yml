@@ -17,10 +17,10 @@ resume_title:                   "Software Engineer"
 resume_contact_email:           "GarrettWebb97@gmail.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
-resume_contact_telephone:       "316-841-3844"
-resume_contact_address:         "4333 WildWest Cir"
+resume_contact_telephone:       "Contact for Phone"
+resume_contact_address:         "Contact for Address"
 
-resume_header_contact_info:     "4333 WildWest Cir, Moorpark, CA • 316-841-3844 • GarrettWebb97@gmail.com"
+resume_header_contact_info:     "GarrettWebb97@gmail.com"
 display_header_contact_info:    "true"
 
 resume_header_intro: "<p>Recent UC Santa Cruz Computer Science graduate</p>"
