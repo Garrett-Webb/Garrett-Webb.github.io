@@ -1,8 +1,14 @@
 # Jobs
 # job 1
+- company: Nokia
+  position: Driver Software Engineer
+  duration: October 2022 &mdash; Present
+  summary: Inquire if interested.
+
+# job 1
 - company: Turbo Resources Intl.
   position: Software Developer
-  duration: October 2021 &mdash; Present
+  duration: October 2021 &mdash; October 2022
   summary: Work in C++, SQL, and Python using Visual Studio, Git, Windows Powershell and Unix terminal to develop and test new features, maintain, and debug complex software systems for sales, inventory management, market data analysis, logistics, reporting, and accounting. Actively participate in planning and developing new functionality. Communicate with other business areas to better accomodate their needs. Debug, maintain, and update legacy code. Work closely with others to effectively plan, execute, and test software.
 
 # job 2
